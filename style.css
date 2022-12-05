@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1280px; 
+    margin: auto;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin: 30px;
+    line-height: 35px;
+}
+.home{
+    margin-bottom: 100px;
+}
+.btn{
+   text-decoration: none;
+   color: rgb(219, 75, 183); 
+   border: 1px solid rgb(219, 75, 183);
+   padding: 0 30px;
+   border-radius: 15px;
+   
+}
+.header2{
+    text-align: center;
+    margin-top: 150px;
+}
+.header2 h1{
+    padding: 10px;
+}
+.header2 p{
+    margin-bottom: 45px;
+}
+.header2 a{
+    font-weight: 600;
+}
+.btn1{
+    text-decoration: none;
+    background-color: rgb(236, 122, 208); 
+    color: #fff;
+    border-radius: 20px;
+    padding: 15px 35px;
+
+}
+.scend-img{
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.secend-part{
+    margin-bottom: 50px;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.row h1{
+    font-size: 60px;
+}
+.row p{
+    color: gray;
+}
+.thart-part{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    background-color:#f6fbff;
+}
+.thart-1{
+    width: 50%;
+}
+.thart-2{
+    width: 50%;
+}
+.thart-part img{
+    width: 100%;
+}
+.four-page {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+.five-page{
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 50px;
+    padding: 30px;
+    background-color:#f6fbff;
+
+}
+.four-1,.five-1{
+    width: 50%;
+}
+.four-1 img{
+    width: 100%;
+    
+}
+.four-2,.five-2{
+    width: 50%;
+    margin-left: 150px;
+}
+.five-2 img{
+    width: 100%;
+}
+.six-page{
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.six-page h1{
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.six-page a{
+    font-weight: 700;
+}
+.footer{
+   
+    background-color: #00252e;
+    display: flex;
+    height: 400px;
+}
+.footer h1{
+   font-size: 50px;
+   color: #fff;
+    
+}
+.footer p{
+    color: #fff;
+    margin-bottom: 5px;
+}
+.footer h2{
+    color: #fff;
+}
+input{
+    width: 200px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.btn2{
+    text-decoration: none;
+    background-color: rgb(236, 122, 208); 
+    color: #fff;
+    border-radius: 5px; 
+    padding: 10px 20px;
+
+}
+.footer a{
+    font-weight: 700;
+    margin-left: 50px;
+}
+.red{
+    color: rgb(202, 17, 17) !important;
+
+}
+
+
+
+
+
